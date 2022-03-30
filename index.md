@@ -106,7 +106,7 @@ drawChord(chord);
 Nothing yet... But I Want It
 
 ### Education and courses:
-1. IBSU (International Black Sea University) faculty - Economics
+1. IBSU (International Black Sea University) Faculty - Economics
 2. Bitcamp JS Fundaments (https://codehs.com/login?next=/student/3008821/section/204244/assignments)
 3. Udemy - JS, CSS, HTML https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/
 4. FreeCodeCamp Responsive Web Design https://www.freecodecamp.org/certification/mrks77/responsive-web-design
